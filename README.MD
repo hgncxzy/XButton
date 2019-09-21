@@ -11,7 +11,17 @@
 
 ### 展示效果
 
-![test]()
+![效果演示](https://github.com/hgncxzy/XButton/blob/master/gif/GIF.gif)
+
+### 实现方式 1
+
+1. 定义 style 样式
+2. 给按钮添加 style 属性
+
+### 实现方式 2
+
+1. 定义 drawable 背景资源
+2. 给按钮添加 background 属性
 
 ### Shape 属性
 
