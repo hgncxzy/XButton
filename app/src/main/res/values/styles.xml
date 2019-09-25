@@ -9,18 +9,18 @@
     </style>
 
 
-    <style name="HcButton" parent="Base.Widget.AppCompat.Button">
+    <style name="xButton" parent="Base.Widget.AppCompat.Button">
         <item name="android:gravity">center_vertical|center_horizontal</item>
     </style>
 
     <!-- outlined button（线框按钮）↓ -->
-    <style name="HcButton.Outlined">
+    <style name="xButton.Outlined">
         <item name="android:background">@drawable/btn_outlined_radius_3_selector</item>
         <item name="android:textColor">@color/btn_outlined_text_selector</item>
     </style>
 
     <!--     outlined button（线框按钮）↓ -->
-    <style name="HcButton.Outlined.288w">
+    <style name="xButton.Outlined.288w">
         <item name="android:layout_width">@dimen/dp_288</item>
         <item name="android:layout_height">@dimen/dp_36</item>
         <item name="android:background">@drawable/btn_outlined_radius_3_selector</item>
@@ -29,12 +29,12 @@
 
 
     <!-- contained button（实心按钮）↓ -->
-    <style name="HcButton.Contained">
+    <style name="xButton.Contained">
         <item name="android:background">@drawable/btn_contained_radius_3_selector</item>
         <item name="android:textColor">@color/btn_contained_text_selector</item>
     </style>
 
-    <style name="HcButton.Contained.328w">
+    <style name="xButton.Contained.328w">
         <item name="android:layout_width">@dimen/dp_328</item>
         <item name="android:layout_height">@dimen/dp_50</item>
         <item name="android:background">@drawable/btn_contained_radius_3_selector</item>
@@ -43,7 +43,7 @@
 
 
     <!-- text button（文本按钮）↓ -->
-    <style name="HcButton.Text">
+    <style name="xButton.Text">
         <item name="android:textColor">@color/btn_text_text_selector</item>
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
